@@ -14,7 +14,7 @@ I used celebA faces dataset. (about 202,000 images)
 I made this network for catching up SOTA technique of the Image Inpainting area.<br />
 Though it trains without any bug, generated images are mostly blurry.<br />
 
-**If you have any interest in my code, I strongly suggest that use this as a baseline.**<br />
-But you need to check the contextual module performance or critics convergence.<br />
+**After clonning the repo, you need to check the contextual module performance or critics convergence.**<br />
+<br />
 
 I will update code soon.
