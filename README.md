@@ -6,7 +6,7 @@ This is a pytorch version of the paper 'Generative Image Inpainting with Context
 > **original TF code**: https://github.com/JiahuiYu/generative_inpainting
 
 # P.S
-I made this networks for catching up SOTA technique of the Image Inpainting area.
+I made this network for catching up SOTA technique of the Image Inpainting area.
 Though it trains without any bug, generated images are mostly blurry.
 I will update code soon, if possible.
 
