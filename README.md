@@ -12,4 +12,4 @@ Though it trains without any bug, generated images are mostly blurry.<br />
 **If you have any interest in my code, I strongly suggest that use this as a baseline.**<br />
 But you need to check the contextual module performance or critics convergence.<br />
 
-I will update code soon, if possible.
+I will update code soon.
