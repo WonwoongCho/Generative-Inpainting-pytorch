@@ -1,0 +1,6 @@
+__pycache__
+notebook.tex
+*.ipynb
+data/
+models/
+samples/
