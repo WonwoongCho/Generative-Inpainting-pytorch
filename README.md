@@ -10,6 +10,6 @@ I made this network for catching up SOTA technique of the Image Inpainting area.
 Though it trains without any bug, generated images are mostly blurry.<br />
 
 **If you have any interest in my code, I strongly suggest that use this as a baseline.**<br />
-But you need to check contextual module performance or critics convergence.<br />
+But you need to check the contextual module performance or critics convergence.<br />
 
 I will update code soon, if possible.
