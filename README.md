@@ -11,7 +11,7 @@ This is a pytorch version of the paper 'Generative Image Inpainting with Context
 
 ### Data
 I used celebA faces dataset. (about 202,000 images)<br />
-place in the 'data' directory
+place it in the 'data' directory
 > images=https://www.dropbox.com/s/3e5cmqgplchz85o/CelebA_nocrop.zip?dl=0 <br />
 > attributes: https://www.dropbox.com/s/auexdy98c6g7y25/list_attr_celeba.zip?dl=0 (just for getting file names)<br />
 
