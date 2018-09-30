@@ -22,9 +22,5 @@ place it in the 'data' directory
 I made this network for catching up SOTA technique of the Image Inpainting area.<br />
 Though it trains without any bug, generated images are mostly blurry.<br />
 
-Because I'm getting in another research, I didn't have enough time to check the each of module performance deeply.<br />
-I suggest below.<br />
 **After clonning the repo, you need to check the contextual module performance or critics convergence.**<br />
 <br />
-
-I will update code soon.
