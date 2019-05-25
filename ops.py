@@ -105,7 +105,6 @@ def contextual_attention(f, b, mask=None, ksize=3, stride=1, rate=2,
             yi = yi.contiguous().view(1, bs[2]*bs[3], fs[2], fs[3]) # (B=1, C=32*32, H=32, W=32)
 
             # softmax to match
-            print('yishape:',yi.shape)
             yi = yi * mi  # mi => (1, 32*32, 1, 1)
             yi = F.softmax(yi*scale, dim=1)
             yi = yi * mi
